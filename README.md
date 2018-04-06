@@ -1,1 +1,1 @@
-# azure-service-bus
+# azure
